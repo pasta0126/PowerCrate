@@ -1,13 +1,13 @@
 @{
     RootModule        = 'PowerCrate.psm1'
     ModuleVersion     = '0.1.0'
-    GUID              = '7fa32020-9e10-5650-bc68-545c8f764080'
+    GUID              = '48f60b45-eedf-5ca9-ad24-2c9563ef8b0c'
     Author            = 'pasta0126'
     CompanyName       = 'More Than Void Company'
     Description       = 'A lightweight PowerShell toolbox for developers and power users.'
     PowerShellVersion = '5.1'
 
-    FunctionsToExport = @()
+    FunctionsToExport = @('open','sln')
     AliasesToExport   = @()
 
     PrivateData = @{

@@ -1,6 +1,6 @@
 @{
     RootModule        = 'PowerCrate.psm1'
-    ModuleVersion     = '0.1.0'
+    ModuleVersion     = '0.2.0'
     GUID              = '48f60b45-eedf-5ca9-ad24-2c9563ef8b0c'
     Author            = 'pasta0126'
     CompanyName       = 'More Than Void Company'

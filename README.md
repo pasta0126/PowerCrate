@@ -9,7 +9,7 @@ Designed to grow over time, PowerCrate focuses on small, composable utilities th
 ## Features
 
 - `sln`
-  Open the first (or interactively selected) Visual Studio solution (`.sln`) found under the current directory.
+  Open the first (or interactively selected) Visual Studio solution (`.sln` or `.slnx`) found under the current directory.
 
 - `open`
   Open a file or directory using the operating system’s default file explorer (`open .`, `open ..`, etc.).
